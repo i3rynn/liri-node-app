@@ -101,3 +101,5 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
      * Runs `spotify-this-song` for "I Want it That Way".
      
+5.  View images in the pictures folder to see examples of Liri at work!
+     
